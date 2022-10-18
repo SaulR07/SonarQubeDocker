@@ -1,0 +1,2 @@
+|            Nombre                |                                                           Comando                                                                     |
+| Codigo Verificación Producción   |  mvn sonar:sonar -Dsonar.projectKey=CVP -Dsonar.host.url=http://localhost:9000 -Dsonar.login=39f629859293e0b2147a7522a5d33ffba8a68f85 |
