@@ -2,6 +2,6 @@
 .vscode
 
 # Ignoramos el contenido de los archivos
-storage/data
-storage/extencions
-storage/logs
+storage/data/
+storage/extencions/
+storage/logs/
