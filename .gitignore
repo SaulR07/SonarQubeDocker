@@ -1,0 +1,7 @@
+# Archivo para ignorar los archivos inecesarios para subir a git
+.vscode
+
+# Ignoramos el contenido de los archivos
+storage/data
+storage/extencions
+storage/logs
